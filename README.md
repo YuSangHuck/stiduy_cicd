@@ -1,1 +1,1 @@
-# stiduy_cicd
+# study_cicd
